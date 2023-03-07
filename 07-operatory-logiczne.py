@@ -1,4 +1,4 @@
-a = 5
+# a = 5
 # print(a > 2 and a > 0)
 # print(a > 2 and a > 10)
 
